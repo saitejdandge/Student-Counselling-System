@@ -1,0 +1,23 @@
+
+Description:
+
+In this project we have 
+
+1.Student Login
+
+2.Admin Login
+
+
+Student sets his priority of colleges which he wants to join through his login
+
+Admin allots colleges to Student by taking their priority and rank into consideration
+
+Admin
+
+email : admin@gmail.com
+
+password : 123
+
+Note:
+
+First Run Register_Page.html    for starting website
